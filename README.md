@@ -57,7 +57,7 @@ python main.py
 
 Download the latest version (no Python required):
 
-👉 https://github.com/your-username/password-generator/releases
+👉 https://github.com/r-amani/Password-Generator/releases/tag/v1.0
 
 ---
 
